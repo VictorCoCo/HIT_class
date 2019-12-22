@@ -1,0 +1,11 @@
+.App {
+  font-family: Raleway, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../images/cocoBack.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*# sourceMappingURL=main.5cf7d20d.chunk.css.map */
